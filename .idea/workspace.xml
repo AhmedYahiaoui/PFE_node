@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ca0639c-bdfa-47af-866d-3fceb1bd2234" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routes/DevicesRoute.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="749">
+              <caret line="387" column="63" selection-start-line="387" selection-start-column="63" selection-end-line="387" selection-end-column="63" />
+              <folding>
+                <element signature="e#2938#3564#0" />
+                <element signature="e#3687#5473#0" />
+                <element signature="e#6035#10412#0" />
+                <element signature="e#10503#11050#0" />
+                <element signature="e#11133#11327#0" />
+                <element signature="e#11484#12540#0" />
+                <element signature="e#12607#12794#0" />
+                <element signature="e#12925#14041#0" />
+                <element signature="e#14146#14185#0" />
+                <element signature="e#14319#15100#0" />
+                <element signature="e#15199#16587#0" />
+                <element signature="e#16617#16836#0" />
+                <element signature="e#17128#17162#0" />
+                <element signature="e#17245#17922#0" />
+                <element signature="e#17953#17961#0" />
+                <element signature="e#20291#20438#0" />
+                <element signature="e#22554#27598#0" />
+                <element signature="e#27641#30367#0" />
+                <element signature="e#30399#30453#0" />
+                <element signature="e#30491#33585#0" />
+                <element signature="e#33777#34789#0" />
+                <element signature="e#34795#36365#0" />
+                <element signature="e#36433#36760#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/middleware/auth.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/UserRoute.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5331">
+              <caret line="495" column="19" selection-start-line="495" selection-end-line="496" />
+              <folding>
+                <element signature="e#514#967#0" />
+                <element signature="e#1038#2129#0" />
+                <element signature="e#3222#4352#0" />
+                <element signature="e#4392#4527#0" />
+                <element signature="e#4599#4779#0" />
+                <element signature="e#4854#5143#0" />
+                <element signature="n#!!block;n#sendTemplateEmail#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/Devices.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;</find>
+      <find>$</find>
+      <find>If you wann</find>
+      <find>Kafka</find>
+      <find>obj</find>
+      <find>bettery in decimal</find>
+      <find>Lat wala lng = 0 , error</find>
+      <find>Lat wala lng = 0</find>
+      <find>Mahich on traking wala mech moving</find>
+      <find>DeviceValues</find>
+      <find>Hi Ahmed</find>
+      <find>title</find>
+      <find>device</find>
+      <find>sit</find>
+      <find>Create an account →</find>
+      <find>Call to action 2</find>
+      <find>Sync your data →</find>
+      <find>Call to action 3</find>
+      <find>text_mail</find>
+      <find>location_device_test</find>
+      <find>Hi</find>
+      <find>&lt;%</find>
+      <find>res</find>
+      <find>fcm_token</find>
+      <find>Server is ready to send messages</find>
+      <find>sendTemplateEmail</find>
+      <find>Moving ama Lat wala lng = 0 , DB</find>
+      <find>,Notif</find>
+      <find>nexmo</find>
+      <find>authenticateJWT</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/models/Datas.js" />
+        <option value="$PROJECT_DIR$/DataBase/mongoose.js" />
+        <option value="$PROJECT_DIR$/middleware/auth.js" />
+        <option value="$PROJECT_DIR$/models/Devices.js" />
+        <option value="$PROJECT_DIR$/routes/firebase-config.js" />
+        <option value="$PROJECT_DIR$/models/User.js" />
+        <option value="$PROJECT_DIR$/config/Hello.js" />
+        <option value="$PROJECT_DIR$/config/tempMail.ejs" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/config/navbar.ejs" />
+        <option value="$PROJECT_DIR$/config/footer.ejs" />
+        <option value="$PROJECT_DIR$/config/test.ejs" />
+        <option value="$PROJECT_DIR$/config/Hello.ejs" />
+        <option value="$PROJECT_DIR$/config/AlertDeviceMail.ejs" />
+        <option value="$PROJECT_DIR$/config/FirstMail/hello1.ejs" />
+        <option value="$PROJECT_DIR$/config/MovingMail/movingMail.ejs" />
+        <option value="$PROJECT_DIR$/config/Mails/welcomeMail.ejs" />
+        <option value="$PROJECT_DIR$/config/Mails/movingMail.ejs" />
+        <option value="$PROJECT_DIR$/routes/DevicesRoute.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/routes/UserRoute.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Backend_NodeJs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Backend_NodeJs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Backend_NodeJs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Backend_NodeJs" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Backend_NodeJs" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="ts.external.directory.path" value="D:\Apps\PhpStorm 2018.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ESPRIT\PFE ESPRIT\Backend_NodeJs\config\Mails" />
+      <recent name="D:\ESPRIT\PFE ESPRIT\Backend_NodeJs\config\MovingMail" />
+      <recent name="D:\ESPRIT\PFE ESPRIT\Backend_NodeJs\config\WelcomeMail" />
+      <recent name="D:\ESPRIT\PFE ESPRIT\Backend_NodeJs\config\FirstMail" />
+      <recent name="D:\ESPRIT\PFE ESPRIT\Backend_NodeJs\config\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ca0639c-bdfa-47af-866d-3fceb1bd2234" name="Default Changelist" comment="" />
+      <created>1592432510082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592432510082</updated>
+      <workItem from="1592432515119" duration="6524000" />
+      <workItem from="1592473307556" duration="14658000" />
+      <workItem from="1592565579963" duration="9346000" />
+      <workItem from="1592603305618" duration="6326000" />
+      <workItem from="1592731677602" duration="8287000" />
+      <workItem from="1592814703817" duration="27937000" />
+      <workItem from="1592904917458" duration="4671000" />
+      <workItem from="1593003173486" duration="5887000" />
+      <workItem from="1593079711343" duration="6036000" />
+      <workItem from="1593163239949" duration="17572000" />
+      <workItem from="1593372247268" duration="9315000" />
+      <workItem from="1593421051610" duration="41618000" />
+      <workItem from="1593619909900" duration="19485000" />
+      <workItem from="1593695501684" duration="5742000" />
+      <workItem from="1593782075262" duration="18860000" />
+      <workItem from="1593871904952" duration="6644000" />
+      <workItem from="1593953871577" duration="15606000" />
+      <workItem from="1594028765776" duration="24132000" />
+      <workItem from="1594137690178" duration="16401000" />
+      <workItem from="1594223088118" duration="2706000" />
+      <workItem from="1594397662092" duration="2031000" />
+      <workItem from="1594652435708" duration="8461000" />
+      <workItem from="1594863639052" duration="1602000" />
+      <workItem from="1594908733479" duration="2200000" />
+      <workItem from="1595245587180" duration="32522000" />
+      <workItem from="1595872961451" duration="10429000" />
+      <workItem from="1595945975646" duration="11247000" />
+      <workItem from="1596015394303" duration="7791000" />
+      <workItem from="1596369561208" duration="7739000" />
+      <workItem from="1596547579390" duration="11963000" />
+      <workItem from="1596727412394" duration="4779000" />
+      <workItem from="1596808205283" duration="21460000" />
+      <workItem from="1597144759653" duration="17750000" />
+      <workItem from="1597232736991" duration="12246000" />
+      <workItem from="1597661723880" duration="7735000" />
+      <workItem from="1597674979214" duration="7509000" />
+      <workItem from="1597705830826" duration="6408000" />
+      <workItem from="1597789052047" duration="5221000" />
+      <workItem from="1597831429366" duration="4834000" />
+      <workItem from="1597962101591" duration="7698000" />
+      <workItem from="1598011129921" duration="15905000" />
+      <workItem from="1598191466895" duration="1200000" />
+      <workItem from="1598216140812" duration="2320000" />
+      <workItem from="1598281491234" duration="4164000" />
+      <workItem from="1598353738142" duration="14817000" />
+      <workItem from="1598439151503" duration="23905000" />
+      <workItem from="1598542362730" duration="9609000" />
+      <workItem from="1598706401302" duration="3926000" />
+      <workItem from="1598826313697" duration="1113000" />
+      <workItem from="1598879444758" duration="8472000" />
+      <workItem from="1599145457215" duration="1930000" />
+      <workItem from="1599240612059" duration="3941000" />
+      <workItem from="1599295609247" duration="12424000" />
+      <workItem from="1599478003417" duration="2897000" />
+      <workItem from="1599741058671" duration="11453000" />
+      <workItem from="1599864332552" duration="1980000" />
+      <workItem from="1600090257220" duration="9316000" />
+      <workItem from="1600352847676" duration="2273000" />
+      <workItem from="1600419237113" duration="8121000" />
+      <workItem from="1600700502702" duration="4886000" />
+      <workItem from="1600859290683" duration="2439000" />
+      <workItem from="1601284296367" duration="6883000" />
+      <workItem from="1601469954075" duration="4482000" />
+      <workItem from="1602087980517" duration="4736000" />
+      <workItem from="1602240061999" duration="5849000" />
+      <workItem from="1602281892518" duration="4333000" />
+      <workItem from="1602335721605" duration="93000" />
+      <workItem from="1603142857809" duration="598000" />
+      <workItem from="1603449561579" duration="2449000" />
+      <workItem from="1603593421176" duration="5681000" />
+      <workItem from="1603632564646" duration="3136000" />
+      <workItem from="1603920426748" duration="3457000" />
+      <workItem from="1603985979931" duration="7495000" />
+      <workItem from="1604070875945" duration="6382000" />
+      <workItem from="1604324190718" duration="985000" />
+      <workItem from="1604684396478" duration="11119000" />
+      <workItem from="1605099104909" duration="599000" />
+      <workItem from="1605621582293" duration="2926000" />
+      <workItem from="1606570389678" duration="596000" />
+      <workItem from="1606664271427" duration="8533000" />
+      <workItem from="1606773915331" duration="2680000" />
+      <workItem from="1606904103462" duration="2634000" />
+      <workItem from="1609671712062" duration="1973000" />
+      <workItem from="1612977394217" duration="2976000" />
+      <workItem from="1615367615134" duration="775000" />
+      <workItem from="1629310477116" duration="12549000" />
+      <workItem from="1629414548149" duration="609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="710997000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20897156" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4989059" visible="true" weight="0.30864197" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010941" side_tool="true" weight="0.5342312" />
+      <window_info anchor="bottom" id="TypeScript" order="12" weight="0.32996634" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ejs" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/ejs/lib/ejs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="17189" column="14" selection-start-line="17189" selection-start-column="14" selection-end-line="17189" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/kafka-node/lib/kafkaClient.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="796" column="9" selection-start-line="796" selection-start-column="9" selection-end-line="796" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/node_modules/textmagic-rest-client/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/header.ejs" />
+    <entry file="file://$PROJECT_DIR$/config/navbar.ejs" />
+    <entry file="file://$PROJECT_DIR$/config/footer.ejs" />
+    <entry file="file://$PROJECT_DIR$/config/LoginMail.ejs" />
+    <entry file="file://$PROJECT_DIR$/config/ResetPasswordMail.ejs" />
+    <entry file="file://$PROJECT_DIR$/routes/yupyou.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/test.ejs" />
+    <entry file="file://$PROJECT_DIR$/config/AlertDeviceMail.ejs" />
+    <entry file="file://$PROJECT_DIR$/config/FirstMail/images/1b0af612-0171-4093-9dbb-77f677129009.jpeg" />
+    <entry file="file://$PROJECT_DIR$/config/FirstMail/hello1.ejs" />
+    <entry file="file://$PROJECT_DIR$/config/tempMail.ejs" />
+    <entry file="file://$PROJECT_DIR$/config/WelcomeMail/welcomeMail.ejs" />
+    <entry file="file://$PROJECT_DIR$/config/AlertBetteryMail.ejs" />
+    <entry file="file://$PROJECT_DIR$/config/Hello.ejs" />
+    <entry file="file://$PROJECT_DIR$/config/MovingMail/movingMail.ejs" />
+    <entry file="file://$PROJECT_DIR$/config/Mails/BetteryMail.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/kafka-node/types/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bluebird/js/release/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/colors/lib/colors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2739">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/colors/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firebaseconf.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/lodash/common/collection.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-340">
+          <caret line="1244" column="8" selection-start-line="1244" selection-start-column="8" selection-end-line="1244" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/moment/moment.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="453" column="4" selection-start-line="453" selection-start-column="4" selection-end-line="453" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/react-material-admin-master/src/pages/devices/DeviceDetails.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="341" selection-start-line="341" selection-end-line="341" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/react-material-admin-master/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="753">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/react-material-admin-master/src/pages/devices/TablePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/nodemailer/lib/mailer/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="135" column="4" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/nodemailer/lib/nodemailer.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/Mails/welcomeMail.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="228" column="172" selection-start-line="228" selection-start-column="170" selection-end-line="228" selection-end-column="172" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/Mails/movingMail.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="224" column="178" selection-start-line="224" selection-start-column="178" selection-end-line="224" selection-end-column="178" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/node-geocoder/lib/geocoder/virtualearth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="90" column="4" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/reverse-geocoding/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/node-geocoder/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/NodeJS/lib/NodeJS.jar!/com/jetbrains/nodejs/packageJson/packageJsonSchema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1326" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/firebase-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataBase/mongoose.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/User.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Datas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jsonwebtoken/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Devices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/UserRoute.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5331">
+          <caret line="495" column="19" selection-start-line="495" selection-end-line="496" />
+          <folding>
+            <element signature="e#514#967#0" />
+            <element signature="e#1038#2129#0" />
+            <element signature="e#3222#4352#0" />
+            <element signature="e#4392#4527#0" />
+            <element signature="e#4599#4779#0" />
+            <element signature="e#4854#5143#0" />
+            <element signature="n#!!block;n#sendTemplateEmail#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/DevicesRoute.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="749">
+          <caret line="387" column="63" selection-start-line="387" selection-start-column="63" selection-end-line="387" selection-end-column="63" />
+          <folding>
+            <element signature="e#2938#3564#0" />
+            <element signature="e#3687#5473#0" />
+            <element signature="e#6035#10412#0" />
+            <element signature="e#10503#11050#0" />
+            <element signature="e#11133#11327#0" />
+            <element signature="e#11484#12540#0" />
+            <element signature="e#12607#12794#0" />
+            <element signature="e#12925#14041#0" />
+            <element signature="e#14146#14185#0" />
+            <element signature="e#14319#15100#0" />
+            <element signature="e#15199#16587#0" />
+            <element signature="e#16617#16836#0" />
+            <element signature="e#17128#17162#0" />
+            <element signature="e#17245#17922#0" />
+            <element signature="e#17953#17961#0" />
+            <element signature="e#20291#20438#0" />
+            <element signature="e#22554#27598#0" />
+            <element signature="e#27641#30367#0" />
+            <element signature="e#30399#30453#0" />
+            <element signature="e#30491#33585#0" />
+            <element signature="e#33777#34789#0" />
+            <element signature="e#34795#36365#0" />
+            <element signature="e#36433#36760#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
